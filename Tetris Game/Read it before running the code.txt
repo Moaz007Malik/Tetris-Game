@@ -1,0 +1,5 @@
+1. Install SFML file to run this code. Because it will show GUI (Graphical User Interface).
+
+2. After intalling, paste the SFML file in the folder
+
+3. After pasting the file, run the code and you are ready to go!
